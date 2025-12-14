@@ -1,0 +1,8 @@
+corner
+matplotlib
+emcee
+tqdm
+arviz
+scipy
+astropy
+numpy
